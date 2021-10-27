@@ -1,0 +1,124 @@
+/*colors and fonts*/
+
+.container-main { 
+  font-size: 17px;
+  background-color: e3dbdb;
+  color: whitesmoke;
+  font-family: monospace;
+  text-align : center;
+
+@media (max-width: 760px) {
+  .container {
+    width : 600px;
+  }
+}
+
+@media (max-width: 500px) {
+  .container {
+    width : 400px;
+  }
+}
+
+}
+
+div{
+  background-color: lightgrey;
+  padding: 0px;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin: 30px;
+
+.card-white
+  background-color: lightgrey;
+  padding: 10px;
+  border-radius: 10px;
+  margin : 30px
+  text-align: center;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.img-profile { 
+  width: 250px;
+  height: 250px ;
+}
+
+.img-circle{
+  border-radius: 50%;
+}
+
+ body{
+  background-color: whitesmoke;
+  text-align: center;
+  color: black;
+  font-size: 10 spw;
+  margin: 100px 60px;
+  font-family: 'lato', sans-serif;
+  font-weight: lighter;
+ }
+
+h1 {
+  color:#02182B;
+  font-size:30px;
+  font-family: 'Lato', sans-serif;
+}
+
+h2 {
+  color: #02182B;
+  font-size:  20px;
+  padding: 10px;
+  font-family: 'Lato', sans-serif;
+}
+
+h1, h2 {
+  color: #7C90A0;
+  font-family: 'Lato', sans-serif;
+}
+
+h1 {
+  color: #6C91BF;
+  font-family: sans-serif;               
+  padding:  15px;
+
+.bouton
+  font-family: sans-serif;
+  background-color:#C1DFF0;
+  color: #448FA3;
+  font-weight: bolder;
+  text-decoration: none;
+  width: 1000px;
+  border-radius: 5%;
+  box-shadow: 10px 5px 5px;
+  padding: 1em;
+  margin : 20px;
+}
+
+a:hover {
+  background-color: #747274;
+
+.bouton
+  font-family: sans-serif;
+  background-color:#C1DFF0;
+  color: #448FA3;
+  font-weight: bolder;
+  text-decoration: none;
+  width: 1000px;
+  border-radius: 5%;
+  box-shadow: 10px 5px 5px;
+  padding: 1em;
+  margin : 20px;
+}
+
+.photo {
+  border-radius:50%
+}
+
+.cadre {
+  background-color:#747274;
+  color:#4E5166;
+  font-weight: bolder;
+}
+
